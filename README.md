@@ -21,7 +21,7 @@ The music has been carefully crafted to match the suspenseful theme of the video
 
 - https://youtu.be/2nept1-QRko
 
-### Justification
+## Justification
 The approach was chosen to create a **dynamic and evolving sound** that would keep the listener engaged throughout the gameplay. Randomized note selection adds unpredictability, an essential element in suspenseful scenes, while structured loops control the progression, ensuring the piece stays cohesive without repeating too soon.
 
 By avoiding pre-recorded sounds, the project maintains full control over the melody's structure and timing, ensuring that the music aligns perfectly with the gameplay's emotional needs. Additionally, generating the music algorithmically allowed for a flexible and adaptive soundtrack that can be adjusted or extended if necessary.
