@@ -20,6 +20,7 @@ The music has been carefully crafted to match the suspenseful theme of the video
 ## Youtube Link
 
 - https://youtu.be/2nept1-QRko
+
 ### Justification
 The approach was chosen to create a **dynamic and evolving sound** that would keep the listener engaged throughout the gameplay. Randomized note selection adds unpredictability, an essential element in suspenseful scenes, while structured loops control the progression, ensuring the piece stays cohesive without repeating too soon.
 
